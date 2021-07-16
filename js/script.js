@@ -195,6 +195,3 @@ search_anything.addEventListener('keyup', function (e) {
     }
 
 })
-
-
-console.log()
